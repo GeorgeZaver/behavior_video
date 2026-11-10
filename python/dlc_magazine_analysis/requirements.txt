@@ -1,0 +1,6 @@
+# Tested with Python 3.11. ffmpeg must be on PATH for make_trial_video.py.
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.7
+opencv-python>=4.8

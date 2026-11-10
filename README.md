@@ -13,8 +13,8 @@ This repository contains codes to perform behavioral analysis based on tracking 
 
 ## Pipeline
 
-1. **<Stage>**: `matlab/<folder>/`. <one line on what it does>
-2. **<Stage>**: `python/<folder>/`. <one line>
+1. **DLC magazine analysis**: [`python/dlc_magazine_analysis/`](python/dlc_magazine_analysis/). From DeepLabCut tracking of the rat and of the box: time at the reward magazine, head in the magazine, whole-body speed and head-anchored rotation, per frame, per trial and per cue type. Includes a worked example and a one-page overview ([analysis_overview.pdf](python/dlc_magazine_analysis/examples/analysis_overview.pdf)).
+2. **<Stage>**: `matlab/<folder>/`. <one line on what it does>
 
 ## Requirements
 

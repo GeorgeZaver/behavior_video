@@ -4,6 +4,10 @@
 
 This repository contains codes to perform behavioral analysis based on tracking data of rats and mice in different contexts. 
 
+> **Early development.** This code is still being written and tested. Functions,
+> their inputs and outputs, and the folder layout may change without notice, and
+> there is no release yet. Before relying on it, contact the leader.
+
 | | |
 |---|---|
 | **Leader** | Sergio Conde-Ocazionez |
